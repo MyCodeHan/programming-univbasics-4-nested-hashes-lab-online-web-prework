@@ -123,5 +123,4 @@ def adding_to_dennis
      }
 
 end
-{"utf8"=>"✓", "authenticity_token"=>"id7z1vIP1N2e0I8QtXQjflsNwcWdBwcyUuOrywEV52c=",
-"article"=>{"title"=>"Hello", "body"=>"World"}, "commit"=>"Create Article"}
+
